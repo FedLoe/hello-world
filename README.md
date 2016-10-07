@@ -1,2 +1,2 @@
 # hello-world
-JAR
+JAR - Just Another Repository
